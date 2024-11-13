@@ -215,14 +215,13 @@ body {
     height: 3.5rem;
   }
   /* slider style */
-  .slide1 {
-    /* background-image: url("/assets/images/pexels-willianjusten-29366214.jpg"); */
+  .slide-1 {
+    background-image: url("/assets/images/pexels-willianjusten-29366214.jpg");
     background-position: center;
     background-color: rgb(61, 60, 60);
     background-blend-mode: overlay;
     background-size: cover;
     height: 35rem !important;
-    background-color: red;
   }
 
   .reg-btn {
@@ -249,13 +248,7 @@ body {
   .about-section {
     background-color: #fff;
   }
-  /* earn section */
-  .earn-section {
-    background-color: rgb(24, 24, 24);
-    background-image: url("../images/pexels-rdne-7821498.jpg");
-    background-blend-mode: overlay;
-    background-size: cover;
-  }
+
   /* service styling */
   .service-box {
     border: 1px solid grey;
@@ -287,61 +280,14 @@ body {
   /* why section styling */
   .why-box1 {
     height: 24rem;
-    background-image: url("../images/2-2-.jpg");
+
     background-size: cover;
     background-color: rgb(36, 36, 36);
     background-blend-mode: overlay;
     border-radius: 5%;
     cursor: pointer;
   }
-  .why-box2 {
-    height: 24rem;
-    background-image: url("../images/3-2-.jpg");
-    background-size: cover;
-    background-color: rgb(36, 36, 36);
-    background-blend-mode: overlay;
-    border-radius: 5%;
-    cursor: pointer;
-  }
-  .why-box3 {
-    height: 24rem;
-    background-image: url("../images/1-2-.jpg");
-    background-size: cover;
-    background-color: rgb(36, 36, 36);
-    background-blend-mode: overlay;
-    border-radius: 5%;
-    cursor: pointer;
-  }
-  .why-box1:hover {
-    background-image: url("../images/2-2-.jpg");
-    background-size: cover;
-    background-color: rgb(21, 21, 21);
-    background-blend-mode: overlay;
-    justify-content: center !important;
-  }
-  .why-box2:hover {
-    background-image: url("../images/3-2-.jpg");
-    background-size: cover;
-    background-color: rgb(21, 21, 21);
-    background-blend-mode: overlay;
-    justify-content: center !important;
-  }
-  .why-box3:hover {
-    background-image: url("../images/1-2-.jpg");
-    background-size: cover;
-    background-color: rgb(21, 21, 21);
-    background-blend-mode: overlay;
-    justify-content: center !important;
-  }
-  .why-box1:hover .line {
-    animation: moves 1s forwards;
-  }
-  .why-box2:hover .line {
-    animation: moves 1s forwards;
-  }
-  .why-box3:hover .line {
-    animation: moves 1s forwards;
-  }
+
   /* practice-section */
   .practice-box:hover {
     background-color: tomato;
