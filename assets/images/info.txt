@@ -1,0 +1,14 @@
+
+Hope you enjoy your new logo, here are the people that
+made your beautiful logo happen :)
+font name: GermaniaOne-Regular
+font link: https://fonts.google.com/specimen/Germania+One
+font author: John Vargas Beltrán
+font author site: https://www.behance.net/vargasbeltran
+
+
+icon designer: Calvin Ng
+icon designer link: /calvinogood
+        
+{"bg":"#EBEAF4","icon-gradient-0":"#E98E0D","icon-gradient-1":"#1536F1","font":"#2F2849","slogan":"#433c5d"}
+      
